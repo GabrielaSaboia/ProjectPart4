@@ -1,10 +1,29 @@
+/*body styles*/
+body{
+    background-color: #ffdf7e;
+}
+/* nav */
+.welcome-nav{
+    float: right;
+}
+.bg-dark{
+    background-color: #f7f7f7 !important;
+}
+.navbar-dark .navbar-brand{
+    color: #737373;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #737373;
+}
+/*header styles*/
+
 /*footer styles*/
 .footer{
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: aliceblue;
+    background-color: #ffdf7e;
     color: white;
     text-align: center;
     padding: 10px;
