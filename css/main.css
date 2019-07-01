@@ -1,13 +1,13 @@
 /*body styles*/
 body{
-    background-color: #ffdf7e;
+    background-color: #d9efff;
 }
 /* nav */
 .welcome-nav{
     float: right;
 }
 .bg-dark{
-    background-color: #f7f7f7 !important;
+    background-color: #fdfdfd !important;
 }
 .navbar-dark .navbar-brand{
     color: #737373;
@@ -23,7 +23,7 @@ body{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #ffdf7e;
+    background-color: #d9efff;
     color: white;
     text-align: center;
     padding: 10px;
