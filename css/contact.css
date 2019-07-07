@@ -1,0 +1,27 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/*form styles*/
+form{
+    padding: 50px;
+align-self: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row{
+    justify-content: center;
+}
+textarea{
+    height: 200px !important;
+}
+/*label styles*/
+
+.form-control{
+
+}
+
+/*button*/
+.btn-primary{
+    background-color:#da476f;
+    border-color: #da476f;
+}

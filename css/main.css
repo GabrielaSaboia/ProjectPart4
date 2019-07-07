@@ -1,6 +1,8 @@
 /*body styles*/
 body{
     background-color: #ffffff;
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
 }
 /* nav */
 nav #logo{
@@ -15,14 +17,23 @@ nav #logo{
 .navbar-dark .navbar-nav .nav-link{
     color: #ffffff;
 }
+.dropdown-menu:hover{
+    display: block;
+}
 /*header styles*/
 /* Welcome/index.html */
 .welcome img{
+    padding: 5px;
+    margin: 20px;
     border-radius: 50%;
     float: right;
     box-shadow: 5px 5px 7px rgba(114, 123, 129, 0.79);
 }
-
+.welcome{
+    font-family:'Montserrat', sans-serif;
+    justify-content: center;
+    text-align: center;
+}
 /*footer styles*/
 .footer{
     position: fixed;
