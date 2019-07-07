@@ -33,6 +33,7 @@ nav #logo{
     justify-content: center;
     text-align: center;
 }
+
 /* About */
 #about img{
     margin:25%;
@@ -49,6 +50,59 @@ nav #logo{
 .about-text p{
     margin: 10% 5% 5% -15%;
 }
+/* Resume Styles
+ -  Education   -*/
+
+.resume h1{
+    margin: 1em 0 .5em 1.1em;
+    justify-self: left;
+}
+
+.schools{
+    margin: 3em;
+}
+.schools h2{
+    font-size: 90%;
+}
+.schools h4, .schools h5 {
+    font-size: 80%;
+}
+.schools ul li{
+    font-size: 80%;
+}
+/*footer styles*/
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #da476f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+/*  Work styles */
+
+.resume h1{
+    margin: 1em 0 .5em 1.1em;
+    justify-self: left;
+}
+
+.work{
+    margin: 3em;
+}
+.work h2{
+    font-size: 90%;
+}
+.work h4, .work h5 {
+    font-size: 80%;
+}
+.work ul li{
+    font-size: 80%;
+}
+
 /*footer styles*/
 .footer{
     position: fixed;
