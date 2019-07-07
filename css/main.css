@@ -20,7 +20,6 @@ nav #logo{
 .dropdown-menu:hover{
     display: block;
 }
-/*header styles*/
 /* Welcome/index.html */
 .welcome img{
     padding: 5px;
@@ -33,6 +32,22 @@ nav #logo{
     font-family:'Montserrat', sans-serif;
     justify-content: center;
     text-align: center;
+}
+/* About */
+#about img{
+    margin:25%;
+    border-radius: 5px;
+    width: 40%;
+    box-shadow: 2px 2px 5px;
+}
+.about-text {
+    padding: 5px;
+}
+.about-text h3{
+    margin: 23% 5% 5% -15%;
+}
+.about-text p{
+    margin: 10% 5% 5% -15%;
 }
 /*footer styles*/
 .footer{
