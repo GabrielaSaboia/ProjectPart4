@@ -50,6 +50,9 @@ nav #logo{
 .about-text p{
     margin: 10% 5% 5% -15%;
 }
+.white-space{
+    margin-bottom: 30px;
+}
 /* Resume Styles
  -  Education   -*/
 
@@ -70,20 +73,7 @@ nav #logo{
 .schools ul li{
     font-size: 80%;
 }
-/*footer styles*/
-.footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #da476f;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-size: 0.5rem;
-}
-
-/*  Work styles */
+/* Resume Work styles */
 
 .professional_resume h1{
     margin: 1em 0 .5em 1.1em;
@@ -101,6 +91,11 @@ nav #logo{
 }
 .work ul li{
     font-size: 80%;
+}
+/*Projects*/
+.page-title{
+
+    padding: 2em 3em;
 }
 
 /*footer styles*/
